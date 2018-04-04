@@ -1,0 +1,30 @@
+[LIST:SUCCESS]
+1    highgate.cse.buffalo.edu           128.205.36.33       3434    
+2    euston.cse.buffalo.edu             128.205.36.34       4545    
+3    embankment.cse.buffalo.edu         128.205.36.35       5656    
+4    underground.cse.buffalo.edu        128.205.36.36       6767    
+[LIST:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.33, to:128.205.36.34
+[msg]:hello
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.33, to:128.205.36.34
+[msg]:hey man fuck you. you suck dicsks
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.33, to:128.205.36.34
+[msg]:hey man asdasd asdasd asdasd asdasd asdasd asdasdasd kkkkkllll
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.33, to:128.205.36.34
+[msg]:mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmasdasdXXX
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.33, to:128.205.36.34
+[msg]:4545##4
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.33, to:128.205.36.34
+[msg]:sfasf word
+[RELAYED:END]
